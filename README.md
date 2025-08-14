@@ -82,4 +82,3 @@
 - **Solana Explorer**: `https://explorer.solana.com/tx/44rb4nEbXVm2gZiGvZLGtzA9fehJnXqnft7Qx1XBP4gd4XgT9MeQxBFyQcYFYtoQ9FuU8jueDg9riYLaah5LywVj?cluster=devnet`
 - **WSOL Account**: `https://explorer.solana.com/address/6d6pfK5LCio7hh1cERFPWBGisHnQiCwp2gRjZ7M3xHHT?cluster=devnet`
 - **USDC Account**: `https://explorer.solana.com/address/Ec8LgZyhXnuoxbrXU5UX4aKgtmmdLUWtDSv6itbRmdX3?cluster=devnet`
-# test-spl-token-auto-purchase
